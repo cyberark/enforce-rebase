@@ -10,7 +10,7 @@ It will fail any pushed PR branches if:
 
    Specifically, this rule prevents developers from merging master _into_ 
    their branch as a way of making it up-to-date.  This creates
-   [foxtrot commits](https://blog.developer.atlassian.com/stop-foxtrots-now/)
+   [foxtrot commits](https://www.atlassian.com/blog/it-teams/stop-foxtrots-now)
    and unsightly git log graphs.
 
    This also makes it illegal to update your branch using the Github UI's
